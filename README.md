@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center"> |ERROR PROBLEM FIXED </h1>
+<h1 align="center"> |ERROR PROBLEM FIXED| </h1>
 
 <h1 align="center"> |MR.NIKI|</h1>
 
