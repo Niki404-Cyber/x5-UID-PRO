@@ -35,7 +35,7 @@ $ pip2 install mechanize
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/x5-UID-PRO.git
 $ cd x5-UID-PRO
-$ python2 x5-Uid-Pro.py
+$ python2 x5-Pro.py
 
 Note: (This Tools Are Free, So You Don't Need Permission To Use NIKI x5-UID-PRO Tools Enjoy)
 ```
@@ -43,7 +43,7 @@ Note: (This Tools Are Free, So You Don't Need Permission To Use NIKI x5-UID-PRO 
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/x5-UID-PRO.git ; cd x5-UID-PRO; python x5-Uid-Pro.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/x5-UID-PRO.git ; cd x5-UID-PRO; python x5-Pro.py
 ```
  
  Note: (This Tools Are Free, So You Don't Need Permission To Use NIKI x5-UID-PRO Tools Enjoy)</br>
