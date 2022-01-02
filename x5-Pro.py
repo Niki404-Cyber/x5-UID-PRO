@@ -7,8 +7,8 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from niki import subscribe
-    subscribe()
+    from niki import main
+    main()
 elif bit == '32bit':
-    from niki import subscribe
-    subscribe()
+    from niki import main
+    main()
