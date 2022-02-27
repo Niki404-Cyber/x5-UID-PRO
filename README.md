@@ -15,7 +15,7 @@
 <h4 align="center"> ONLY PUBLIC CRACKING </h4>
 
 
-#<b>installation</b>
+# <b>Installation</b>
 
 ```
 $ cd
