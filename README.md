@@ -1,4 +1,4 @@
-## x5-UID-PRO.
+# x5-UID-PRO.
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Niki404-Cyber-dimgray?style=flat-square&logo=github)](https://github.com/Niki404-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICIALS)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.NIKI-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/IulgtTY1ao6HeowtyCFEGJ)
 
 
@@ -15,11 +15,11 @@
 <h4 align="center"> ONLY PUBLIC CRACKING </h4>
 
 
-## <b>installation</b>
+#<b>installation</b>
 
 ```
-cd
-rm -rf x5-UID-PRO
+$ cd
+$ rm -rf x5-UID-PRO
 $ pkg update
 $ pkg upgrade
 $ pkg install python2
